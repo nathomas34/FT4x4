@@ -199,9 +199,9 @@ function App() {
                 rows={4}
                 className="w-full p-3 bg-gray-900 rounded-lg border border-red-600/20 focus:border-red-500 outline-none"
               ></textarea>
-              <button className="w-full bg-red-600 text-white px-8 py-3 rounded-lg hover:bg-red-700 transition-colors">
+              <a href="mailto:contact@montpellier4x4.com"><button className="w-full bg-red-600 text-white px-8 py-3 rounded-lg hover:bg-red-700 transition-colors">
                 Envoyer
-              </button>
+              </button></a>
             </form>
           </div>
         </div>
